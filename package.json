@@ -5,7 +5,7 @@
   "engines": {
     "node": "20"
   },
-  "description": "",
+  "description": "Simple number guessing game to test your luck.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
